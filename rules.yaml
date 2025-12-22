@@ -4,3 +4,5 @@ payload:
   - '+.gstatic.com'
   - '+.googletagmanager.com'
   - '+.google.com'
+  - '+.googleusercontent.com'
+  - '+.google.com.sg'
