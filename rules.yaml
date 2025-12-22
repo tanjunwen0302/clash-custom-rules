@@ -1,3 +1,6 @@
 payload:
   - '+.googleapis.cn'
   - '+.xn--ngstr-lra8j.com'
+  - '+.gstatic.com'
+  - '+.googletagmanager.com'
+  - '+.google.com'
